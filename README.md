@@ -1,4 +1,2 @@
 # achiev-ibit-ementest
-Test repo for achievibit
-
-again again (said tinky winky)
+Test repo for achievibit.
