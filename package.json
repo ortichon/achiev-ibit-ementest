@@ -1,0 +1,15 @@
+{
+  "name": "achiev-ibit-ementest",
+  "version": "1.0.0",
+  "description": "repo to help me test achievibit",
+  "keywords": [],
+  "license": "ISC",
+  "author": {
+    "name": "Or Tichon",
+    "email": "or.tichon@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ortichon/achiev-ibit-ementest.git"
+  }
+}
